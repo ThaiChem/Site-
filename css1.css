@@ -1,0 +1,65 @@
+
+
+body {
+   
+    
+    background-color: #e9eaec;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-width: 400px;
+    min-height: 600px;
+    font-family: arial;
+    font-size: 25px;
+
+
+}
+
+
+
+h1 {
+    
+    font-size: 50px;
+    font-weight: bolder;
+    font-stretch: extra-condensed;
+    font-family: arial;
+    margin:30px;
+    color:#00008b;
+    min-width: 400px;
+
+
+
+}
+
+.button-container {
+    
+    size: 20px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    min-width: 400px;
+    min-height: 600px;
+    margin: 0 auto;
+    
+}
+
+button {
+    size: 25px;
+    margin-top: 15px;
+    padding: 10px;
+    margin:  25px;
+    font-size: 25px;
+    font-weight: 800;
+    cursor: pointer;
+    background-color: gold;
+    color: #00008b;
+    border: none;
+    border-radius: 10px;
+    min-width: 400px;
+
+       
+}
+
+button:hover {
+    background-color: gold;
+}
